@@ -15,7 +15,7 @@
 
 /* Styles */
 
-body{
+body {
 	margin: 0px;
 	padding: 0px;
 	background-color: #32a8ce;
@@ -44,9 +44,13 @@ body{
 	text-align: center;
 }
 
-h2{
+h2 {
 	color: white;
 	font-family: 'Roboto';
+}
+
+a {
+	text-decoration: none !important;
 }
 
 @media (min-width: 768px){
