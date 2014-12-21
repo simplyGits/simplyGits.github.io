@@ -104,6 +104,10 @@ a {
 	border-bottom: none;
 }
 
+.product:not(:last-child) {
+	padding-bottom: 50px;
+}
+
 .btn-simply{
 	background-color: #32a8ce !important;
 	color: white !important;
