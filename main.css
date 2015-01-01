@@ -20,6 +20,9 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background-color: #32a8ce;
+	
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 .appNameHeaderBig {
