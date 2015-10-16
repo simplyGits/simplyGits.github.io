@@ -111,6 +111,10 @@ a {
 	padding-bottom: 50px;
 }
 
+.btn {
+	border-radius: 0;
+}
+
 .btn-simply{
 	background-color: #32a8ce !important;
 	color: white !important;
